@@ -1,0 +1,86 @@
+---
+permalink: /publications/
+title: ""
+author_profile: false
+hide_author_profile: true
+redirect_from:
+  - /publications.html
+---
+
+<br>
+<br>
+<br>
+<h1 style="text-align: center;">PUBLICATIONS</h1>
+<!------>
+<br>
+
+<div class="wordwrap">
+  You can find an updated list of my publications on <a href="https://scholar.google.com/citations?user=DOzi4hwAAAAJ">my Google Scholar profile</a>.
+</div>
+
+<br>
+
+{% include base_path %}
+
+<h2 style="text-align: right;">
+    <span style="color: var(--accent-color)">JOURNAL</span> ARTICLES
+</h2>
+
+{% assign articles = site.data.publicationsabbrev | where: "ENTRYTYPE", "article" | sort: "year" | reverse %}
+
+<ol>
+{% for paper in articles %}
+  <li>
+    <strong>{{ paper.title }}</strong><br>
+    {{ paper.author_abbrev | replace: "A. Kant", "<u>A. Kant</u>" }}<br>
+    <em>{{ paper.journal }}</em>, {{ paper.year }}
+  </li>
+{% endfor %}
+</ol>
+
+<br>
+
+<h2 style="text-align: right;">
+    <span style="color: var(--accent-color)">CONFERENCE</span> PRESENTATIONS
+</h2>
+
+{% assign articles = site.data.publicationsabbrev | where: "ENTRYTYPE", "inproceedings" | sort: "year" | reverse %}
+
+<ol>
+{% for paper in articles %}
+  <li>
+    <strong>{{ paper.title }}</strong><br>
+     {{ paper.author_abbrev | replace: "A. Kant", "<u>A. Kant</u>" }}<br>
+    <em>{{ paper.booktitle }}</em>, {{ paper.month }} {{ paper.year }}
+  </li>
+{% endfor %}
+</ol>
+
+<!-- New style rendering if publication categories are defined -->
+
+<!--
+{% if site.publication_category %}
+  {% for category in site.publication_category  %}
+    {% assign title_shown = false %}
+    {% for post in site.publications reversed %}
+      {% if post.category != category[0] %}
+        {% continue %}
+      {% endif %}
+      {% unless title_shown %}
+        {% assign words = category[1].title | split: ' ' %}
+        {% assign first_word = words.first %}
+        {% assign rest_words = words | slice: 1, words.size | join: ' '%}
+        <h2 style="text-align: right;">
+          <span style="color: var(--accent-color)">{{ first_word }}</span> {{ rest_words }}
+        </h2>
+        {% assign title_shown = true %}
+      {% endunless %}
+      {% include archive-single.html %}
+    {% endfor %}
+  {% endfor %}
+{% else %}
+  {% for post in site.publications reversed %}
+    {% include archive-single.html %}
+  {% endfor %}
+{% endif %}
+-->

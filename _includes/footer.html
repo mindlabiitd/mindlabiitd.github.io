@@ -1,0 +1,80 @@
+{% include base_path %}
+
+<!--
+{% if site.author.github or site.author.bitbucket or site.atom_feed.hide != true %}
+<div class="page__footer-follow">
+  <ul class="social-icons">
+    {% if site.data.ui-text[site.locale].follow_label %}
+      <li><strong>{{ site.data.ui-text[site.locale].follow_label }}</strong></li>
+    {% endif %}
+    {% if site.author.github %}
+      <li><a href="http://github.com/{{ site.author.github }}"><i class="fab fa-github" aria-hidden="true"></i> GitHub</a></li>
+    {% endif %}
+    {% if site.author.bitbucket %}
+      <li><a href="http://bitbucket.org/{{ site.author.bitbucket }}"><i class="fab fa-bitbucket" aria-hidden="true"></i> Bitbucket</a></li>
+    {% endif %}
+    {% if site.atom_feed.hide != true %}
+    <li><a href="{% if site.atom_feed.path %}{{ site.atom_feed.path }}{% else %}{{ base_path }}/feed.xml{% endif %}"><i class="fa fa-fw fa-rss-square" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].feed_label | default: "Feed" }}</a></li>
+    {% endif %}
+  </ul>
+</div>
+{% endif %}
+-->
+<div class="page__footer-follow">
+  <ul class="social-icons">
+    <!-- <li><strong>Contact &amp; Links</strong></li> -->
+
+    <!-- Email -->
+    <li>
+      <a href="mailto:akant@iitd.ac.in" title="Email">
+        <!-- envelope SVG -->
+        <svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 24 24" fill="currentColor">
+          <path d="M20 4H4c-1.1 0-2 .9-2 2v12c0 1.1.9 2 2 2h16c1.1 0 2-.9 2-2V6c0-1.1-.9-2-2-2zm0 2-8 5-8-5h16zm0 12H4V8l8 5 8-5v10z"/>
+        </svg>
+      </a>
+    </li>
+
+    <!-- Find Us -->
+    <li>
+      <a href="https://maps.app.goo.gl/HqV3Hs8dGrjVsC1Z9" 
+        title="Find us" target="_blank" rel="noopener">
+        <svg xmlns="http://www.w3.org/2000/svg" width="40" height="40"
+             viewBox="0 0 24 24" fill="currentColor">
+        <path d="M12 2C8.13 2 5 5.13 5 9c0 5.25 7 13 7 13s7-7.75 7-13c0-3.87-3.13-7-7-7zm0 9.5
+               c-1.38 0-2.5-1.12-2.5-2.5s1.12-2.5 2.5-2.5 2.5 1.12 2.5 2.5-1.12 2.5-2.5 2.5z"/>
+        </svg>
+      </a>
+    </li>
+
+    <!-- Google Scholar -->
+    <li>
+      <a href="https://scholar.google.com/citations?user=DOzi4hwAAAAJ" title="Google Scholar" target="_blank" rel="noopener">
+        <!-- Scholar hat SVG -->
+        <svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 24 24" fill="currentColor">
+          <path d="M12 3L1 9l11 6 9-4.91V17h2V9L12 3zm0 13l-8-4.36v2.58L12 21l8-6.78v-2.58L12 16z"/>
+        </svg>
+      </a>
+    </li>
+
+    <!-- LinkedIn -->
+    <li>
+      <a href="https://www.linkedin.com/in/aayush-kant/" title="LinkedIn" target="_blank" rel="noopener">
+        <!-- LinkedIn SVG -->
+        <svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 24 24" fill="currentColor">
+          <path d="M19 0h-14c-2.76 0-5 2.24-5 5v14c0 2.76 2.24 5 5 5h14c2.76 0 5-2.24 5-5V5c0-2.76-2.24-5-5-5zm-11 19H5V9h3v10zm-1.5-11.3c-.97 0-1.75-.79-1.75-1.75S5.53 4.2 6.5 4.2s1.75.79 1.75 1.75S7.47 7.7 6.5 7.7zM20 19h-3v-5.5c0-1.38-1.12-2.5-2.5-2.5S12 12.12 12 13.5V19H9V9h3v1.1c.63-.77 1.56-1.1 2.5-1.1 2.21 0 4 1.79 4 4V19z"/>
+        </svg>
+      </a>
+    </li>
+  </ul>
+</div>
+
+<div class="page__footer-copyright">
+  <p>
+    MIND Lab @ IIT Delhi
+  </p>
+</div>
+
+<div class="page__footer-copyright">
+  &copy; {{ site.time | date: '%Y' }} {{ site.name | default: site.title }}, {{ site.data.ui-text[site.locale].powered_by | default: "Powered by" }} <a href="http://jekyllrb.com" rel="nofollow">Jekyll</a> &amp; <a href="https://github.com/academicpages/academicpages.github.io">AcademicPages</a>, a fork of <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow">Minimal Mistakes</a>.<br />
+  Site last updated {{ "now" | date: '%Y-%m-%d' }}
+</div>

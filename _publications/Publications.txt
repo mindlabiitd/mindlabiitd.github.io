@@ -1,0 +1,182 @@
+@inproceedings{kant2023mesoscale,
+  title={Mesoscale chromatin organization is regulated by active transcription and epigenetic regulation},
+  author={Kant, Aayush and Guo, Zixian and Shenoy, Vivek B},
+  booktitle={Biophysical Journal},
+  volume={122},
+  number={3},
+  pages={150a},
+  year={2023},
+  publisher={Elsevier}
+}
+
+@inproceedings{guo2023interplay,
+  title={Interplay of epigenetic regulation and chromatin-lamina interaction modulates the morphology of lamina-associated domains},
+  author={Guo, Zixian and Kant, Aayush and Shenoy, Vivek B},
+  booktitle={Biophysical Journal},
+  volume={122},
+  number={3},
+  pages={210a},
+  year={2023},
+  publisher={Elsevier}
+}
+
+@article{kant2018stress,
+  title={Stress enhanced calcium kinetics in a neuron},
+  author={Kant, Aayush and Bhandakkar, Tanmay K and Medhekar, Nikhil V},
+  journal={Biomechanics and modeling in mechanobiology},
+  volume={17},
+  number={1},
+  pages={169--180},
+  year={2018},
+  publisher={Springer Berlin Heidelberg Berlin/Heidelberg}
+}
+
+@article{kant2021modeling,
+  title={Modeling links softening of myelin and spectrin scaffolds of axons after a concussion to increased vulnerability to repeated injuries},
+  author={Kant, Aayush and Johnson, Victoria E and Arena, John D and Doll{\'e}, Jean-Pierre and Smith, Douglas H and Shenoy, Vivek B},
+  journal={Proceedings of the National Academy of Sciences},
+  volume={118},
+  number={28},
+  pages={e2024961118},
+  year={2021},
+  publisher={National Acad Sciences}
+}
+
+@article{kant2021spatial,
+  title={Spatial calcium kinetics after a traumatic brain injury},
+  author={Kant, Aayush and Medhekar, Nikhil V and Bhandakkar, Tanmay K},
+  journal={Biomechanics and Modeling in Mechanobiology},
+  volume={20},
+  number={4},
+  pages={1413--1430},
+  year={2021},
+  publisher={Springer Berlin Heidelberg Berlin/Heidelberg}
+}
+
+@inproceedings{kant2013dynamic,
+  title={Dynamic analysis of impact of ball on cricket bat and force transfer to the elbow},
+  author={Kant, Aayush and Padole, PM and Uddanwadikar, Rashmi},
+  booktitle={Moment},
+  volume={220},
+  pages={241},
+  year={2013}
+}
+
+@inproceedings{kant2023active,
+  title={Active Transcription Regulates Mesoscale Genomic Organization via Active Extrusion of Chromatin Loops},
+  author={Kant, Aayush and Guo, Zixian and Shenoy, Vivek},
+  booktitle={APS March Meeting Abstracts},
+  volume={2023},
+  pages={S08--006},
+  year={2023}
+}
+
+@inproceedings{guo2023epigenetic,
+  title={Epigenetic Reactions and Chromatin-lamina Interactions Synergistically Regulate the Morphology of Lamina-associated Domains},
+  author={Guo, Zixian and Kant, Aayush and Shenoy, Vivek},
+  booktitle={APS March Meeting Abstracts},
+  volume={2023},
+  pages={Z06--002},
+  year={2023}
+}
+
+@article{talwar2021mechanosensitive,
+  title={Mechanosensitive smooth muscle cell phenotypic plasticity emerging from a null state and the balance between Rac and Rho},
+  author={Talwar, Shefali and Kant, Aayush and Xu, Tina and Shenoy, Vivek B and Assoian, Richard K},
+  journal={Cell reports},
+  volume={35},
+  number={3},
+  year={2021},
+  publisher={Elsevier}
+}
+
+@article{kolel2022sars,
+  title={SARS-CoV-2 infection- Of music and mechanics of its Spikes! A perspective},
+  author={Kolel-Veetil, Manoj K and Kant, Aayush and Shenoy, Vivek B and Buehler, Markus J},
+  journal={ACS nano},
+  volume={16},
+  number={5},
+  pages={6949--6955},
+  year={2022},
+  publisher={American Chemical Society}
+}
+
+@article{loneker2023lipid,
+  title={Lipid droplets are intracellular mechanical stressors that impair hepatocyte function},
+  author={Loneker, Abigail E and Alisafaei, Farid and Kant, Aayush and Li, David and Janmey, Paul A and Shenoy, Vivek B and Wells, Rebecca G},
+  journal={Proceedings of the National Academy of Sciences},
+  volume={120},
+  number={16},
+  pages={e2216811120},
+  year={2023},
+  publisher={National Academy of Sciences}
+}
+
+@article{kant2024active,
+  title={Active transcription and epigenetic reactions synergistically regulate meso-scale genomic organization},
+  author={Kant, Aayush and Guo, Zixian and Vinayak, Vinayak and Neguembor, Maria Victoria and Li, Wing Shun and Agrawal, Vasundhara and Pujadas, Emily and Almassalha, Luay and Backman, Vadim and Lakadamyali, Melike and others},
+  journal={Nature communications},
+  volume={15},
+  number={1},
+  pages={4338},
+  year={2024},
+  publisher={Nature Publishing Group UK London}
+}
+
+@article{kant2023chemo,
+  title={Chemo-Mechanical Regulation of Tau Phosphorylation Following Traumatic Brain Injuries},
+  author={Kant, Aayush and Medhekar, Nikhil V and Bhandakkar, Tanmay K},
+  journal={bioRxiv},
+  pages={2023--07},
+  year={2023},
+  publisher={Cold Spring Harbor Laboratory}
+}
+
+@inproceedings{kant2024viscoelastic,
+  title={Viscoelastic chromatin reorganization by chemo-mechanical environmental cues drives nuclear response},
+  author={Kant, Aayush and Shenoy, Vivek B},
+  booktitle={Biophysical Journal},
+  volume={123},
+  number={3},
+  pages={232a},
+  year={2024},
+  publisher={Elsevier}
+}
+
+@inproceedings{dhankhar2024meso,
+  title={Meso-scale genomic organization on dynamic mechanical cues},
+  author={Dhankhar, Monika and Kant, Aayush and Shenoy, Vivek B},
+  booktitle={Biophysical Journal},
+  volume={123},
+  number={3},
+  pages={232a},
+  year={2024},
+  publisher={Elsevier}
+}
+
+@article{dhankhar2025revealing,
+  title={Revealing the biophysics of lamina-associated domain formation by integrating theoretical modeling and high-resolution imaging},
+  author={Dhankhar, Monika and Guo, Zixian and Kant, Aayush and Basir, Ramin and Joshi, Rohit and Vinayak, Vinayak and Heo, Su Chin and Mauck, Robert L and Lakadamyali, Melike and Shenoy, Vivek B},
+  journal={Nature Communications},
+  volume={16},
+  number={1},
+  pages={7909},
+  year={2025},
+  publisher={Nature Publishing Group UK London}
+}
+
+@article{floryan2025remodeling,
+  title={Remodeling of self-assembled microvascular networks under long term flow},
+  author={Floryan, Marie and Cambria, Elena and Blazeski, Adriana and Coughlin, Mark F and Wan, Zhengpeng and Offeddu, Giovanni and Vinayak, Vinayak and Kant, Aayush and Shenoy, Vivek and Kamm, Roger D},
+  journal={bioRxiv},
+  year={2025}
+}
+
+@article{kim2025snap,
+  title={O-SNAP: A comprehensive pipeline for spatial profiling of chromatin architecture},
+  author={Kim, Hannah H and Martinez-Sarmiento, Jose Angel and Palma, Flavio R and Kant, Aayush and Zhang, Ellen Y and Guo, Zixian and Mauck, Robert L and Heo, Su Chin and Shenoy, Vivek and Bonini, Marcelo G and others},
+  journal={bioRxiv},
+  pages={2025--07},
+  year={2025},
+  publisher={Cold Spring Harbor Laboratory}
+}
