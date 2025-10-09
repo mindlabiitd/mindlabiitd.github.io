@@ -1,6 +1,10 @@
 # Academic Pages
 **Academic Pages is a GitHub Pages template for personal and professional portfolio-oriented websites.**
 
+Site build using Academic pages. The Readme for Academic pages is included as a guide.
+
+---------------------------------------------------
+
 ![Academic Pages template example](images/themes/homepage-light.png "Academic Pages template example")
 
 # Getting Started
@@ -94,3 +98,5 @@ Unfortunately, one logistical issue with a template theme like Academic Pages th
 [![GitHub stars](https://img.shields.io/github/stars/academicpages/academicpages.github.io)](https://github.com/academicpages/academicpages.github.io)
 [![GitHub forks](https://img.shields.io/github/forks/academicpages/academicpages.github.io)](https://github.com/academicpages/academicpages.github.io/fork)
 </div>
+
+-----------------------------------------
