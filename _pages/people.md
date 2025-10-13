@@ -24,6 +24,13 @@ table {
 table, th, td {
    border: none;
 }
+@media (max-width: 768px) {
+  td {
+    display: block;
+    width: 100% !important;
+    text-align: center !important;
+  }
+}
 </style>
 
 <br>
