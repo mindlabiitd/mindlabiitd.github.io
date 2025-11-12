@@ -100,7 +100,7 @@ We study the chemo-mechanical transduction of forces in living systems, focusing
   <span style="color: var(--accent-color)">HOW</span> DO WE DO IT
 </h2>
 
-Our multiscale methodolies prominently rely on physics-based computational modeling spanning:
+Our multiscale methodologies prominently rely on physics-based computational modeling spanning:
 
 - Continuum and molecular simulations that trace how traumatic impacts create cellular stresses and drive tau-protein phase separation and aggregation.
 
