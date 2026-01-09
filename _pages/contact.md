@@ -36,7 +36,7 @@ table, th, td {
 <table>
   <tr>
     <td style="padding-right:1rem; white-space:nowrap; width:15%"><strong>Office</strong>:</td>
-    <td>Block II, Room 388</td>
+    <td>Block II, Room 299</td>
   </tr>
   <tr>
     <td style="padding-right:1rem; white-space:nowrap; width:15%"><strong>Telephone</strong>:</td>
