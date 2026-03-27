@@ -58,11 +58,43 @@ table, th, td {
 
     <!-- Right column: text -->
     <td style="width:50%; text-align:justify; vertical-align:top; padding:0 1rem;">
-      Aayush is an Assistant Professor at the Center for Biomedical Engineering, IIT Delhi, where he joined in 2025 and holds a joint appointment at the Department of Biomedical Engineering, AIIMS, Delhi. Prior to that, he was a postdoctoral fellow at the University of Pennsylvania at the School of Engineering and Applied Sciences. He has a joint PhD in biomechanics from Indian Institute of Technology Bombay and Monash University, Australia. His broad interests lie in utilizing fundamental physical principles to investigate how physical forces drive physiological and pathological cell behaviour. Read more about his research <a href="research/">here</a>.<br>
+      Aayush is an Assistant Professor at the Center for Biomedical Engineering, IIT Delhi, where he joined in 2025 and holds a joint appointment at the Department of Biomedical Engineering, AIIMS, Delhi. Prior to that, he was a postdoctoral fellow at the University of Pennsylvania at the School of Engineering and Applied Sciences. He has a joint PhD in biomechanics from Indian Institute of Technology Bombay and Monash University, Australia. His broad interests lie in utilizing fundamental physical principles to investigate how physical forces drive physiological and pathological cell behaviour. Read more about his research <a href="/research/">here</a>.<br>
         <div style="display:flex; gap:1rem; margin-top:0.5rem;">
             <a href="/images/AayushKant_2025Resume.pdf" target="_blank" rel="noopener">Download CV (PDF)</a>
             <a href="https://scholar.google.com/citations?user=DOzi4hwAAAAJ" target="_blank" rel="noopener">Google Scholar</a>
         </div>
+    </td>
+  </tr>
+</table>
+
+<h2 style="text-align: right;">
+  <span style="color: var(--accent-color)">Undergrads</span>
+</h2>
+
+<table style="width:100%; table-layout:fixed">
+  <tr>
+    <!-- Left column: photo + caption -->
+    <td style="width:35%; text-align:center; vertical-align:top; padding:0 1rem;">
+      <img src="/images/AnushreeGoyal_crop.jpeg" alt="Aayush Kant"
+           style="width:100%; max-width:180px;"><br><br>
+        <strong>Anushree Goyal</strong><br>
+        Department of Energy Science and Engineering<br>
+    </td>
+
+    <!-- Left column: photo + caption -->
+    <td style="width:35%; text-align:center; vertical-align:top; padding:0 1rem;">
+      <img src="/images/PartRajput_crop.jpeg" alt="Aayush Kant"
+           style="width:100%; max-width:180px;"><br><br>
+        <strong>Parth Rajput</strong><br>
+        Department of Biochemical Engineering and Biotechnology<br>
+    </td>
+
+    <!-- Left column: photo + caption -->
+    <td style="width:35%; text-align:center; vertical-align:top; padding:0 1rem;">
+      <img src="/images/AdityaVikram_crop.jpeg" alt="Aayush Kant"
+           style="width:100%; max-width:180px;"><br><br>
+        <strong>Aditya Vikram</strong><br>
+        Department of Mechanical Engineering<br>
     </td>
   </tr>
 </table>
