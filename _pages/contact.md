@@ -40,7 +40,7 @@ table, th, td {
   </tr>
   <tr>
     <td style="padding-right:1rem; white-space:nowrap; width:15%"><strong>Telephone</strong>:</td>
-    <td>+91-11-2659&nbsp;1337</td>
+    <td>+91-11-2659&nbsp;1154</td>
   </tr>
   <tr>
     <td style="padding-right:1rem; white-space:nowrap; width:15%"><strong>Email</strong>:</td>
