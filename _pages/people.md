@@ -68,18 +68,79 @@ table, th, td {
 </table>
 
 <h2 style="text-align: right;">
+  <span style="color: var(--accent-color)">PhD Students</span>
+</h2>
+
+<table style="width:100%; table-layout:fixed">
+  <tr>
+
+    <td style="width:35%;"></td>
+
+    <td style="width:35%;"></td>
+
+    <!-- Left column: photo + caption -->
+    <td style="width:35%; text-align:center; vertical-align:top; padding:0 1rem;">
+      <img src="/images/AaryaBhoi2_crop.jpeg" alt="Aayush Kant"
+           style="width:100%; max-width:180px;"><br><br>
+        <strong>Aarya Bhoi</strong><br>
+        Center for Biomedical Engineering<br>
+    </td>
+
+  </tr>
+</table>
+
+<h2 style="text-align: right;">
+  <span style="color: var(--accent-color)">M. Tech. Students</span>
+</h2>
+
+<table style="width:100%; table-layout:fixed">
+  <tr>
+
+    <td style="width:35%;"></td>
+
+    <td style="width:35%;"></td>
+
+    <!-- Left column: photo + caption -->
+    <td style="width:35%; text-align:center; vertical-align:top; padding:0 1rem;">
+      <img src="/images/profile.png" alt="Aayush Kant"
+           style="width:100%; max-width:180px;"><br><br>
+        <strong>Shaurya Raj</strong><br>
+        Center for Biomedical Engineering<br>
+    </td>
+
+  </tr>
+</table>
+
+<h2 style="text-align: right;">
+  <span style="color: var(--accent-color)">M.S. (Research) Students</span>
+</h2>
+
+<table style="width:100%; table-layout:fixed">
+  <tr>
+
+    <td style="width:35%;"></td>
+
+    <td style="width:35%;"></td>
+
+    <!-- Left column: photo + caption -->
+    <td style="width:35%; text-align:center; vertical-align:top; padding:0 1rem;">
+      <img src="/images/DivyaPandey_crop.jpeg" alt="Aayush Kant"
+           style="width:100%; max-width:180px;"><br><br>
+        <strong>Dr. Divya Pandey</strong><br>
+        Center for Biomedical Engineering<br>
+    </td>
+
+  </tr>
+</table>
+
+<h2 style="text-align: right;">
   <span style="color: var(--accent-color)">Undergrads</span>
 </h2>
 
 <table style="width:100%; table-layout:fixed">
   <tr>
-    <!-- Left column: photo + caption -->
-    <td style="width:35%; text-align:center; vertical-align:top; padding:0 1rem;">
-      <img src="/images/AnushreeGoyal_crop.jpeg" alt="Aayush Kant"
-           style="width:100%; max-width:180px;"><br><br>
-        <strong>Anushree Goyal</strong><br>
-        Department of Energy Science and Engineering<br>
-    </td>
+
+    <td style="width:35%;"></td>
 
     <!-- Left column: photo + caption -->
     <td style="width:35%; text-align:center; vertical-align:top; padding:0 1rem;">
@@ -89,12 +150,12 @@ table, th, td {
         Department of Biochemical Engineering and Biotechnology<br>
     </td>
 
-    <!-- Left column: photo + caption -->
     <td style="width:35%; text-align:center; vertical-align:top; padding:0 1rem;">
       <img src="/images/AdityaVikram_crop.jpeg" alt="Aayush Kant"
            style="width:100%; max-width:180px;"><br><br>
         <strong>Aditya Vikram</strong><br>
         Department of Mechanical Engineering<br>
     </td>
+
   </tr>
 </table>
