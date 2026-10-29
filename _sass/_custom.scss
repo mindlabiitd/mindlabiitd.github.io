@@ -199,3 +199,40 @@ html[data-theme="dark"] {
   text-align: justify;
   text-justify: inter-word; /* better spacing for justified text */
 }
+
+
+/*--------------------------------------------------------------------------------------*/
+/* These are needed to properly align the funding logos - as more logos are added (far too optimistic, I know)*/
+.funding-logos {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  align-items: center;
+  justify-items: center;
+  gap: 1.5rem 1rem;
+  width: 100%;
+  margin: 1.5rem auto;
+}
+
+.funding-logos img {
+  display: block;
+  width: 100%;
+  max-width: 260px;
+  height: 100px;
+  object-fit: contain;
+}
+
+@media (max-width: 600px) {
+  .funding-logos {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 1.25rem 0.75rem;
+  }
+
+  .funding-logos img {
+    height: 85px;
+  }
+
+  /* Center the third logo when there are exactly three */
+  .funding-logos img:last-child:nth-child(odd) {
+    grid-column: 1 / -1;
+  }
+}

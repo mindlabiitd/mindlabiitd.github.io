@@ -102,7 +102,7 @@ table, th, td {
 
     <!-- Left column: photo + caption -->
     <td style="width:35%; text-align:center; vertical-align:top; padding:0 1rem;">
-      <img src="/images/profile.png" alt="Aayush Kant"
+      <img src="/images/ShauryaRaj_crop.jpeg" alt="Aayush Kant"
            style="width:100%; max-width:180px;"><br><br>
         <strong>Shaurya Raj</strong><br>
         Center for Biomedical Engineering<br>
