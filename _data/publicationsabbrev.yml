@@ -196,10 +196,14 @@
     theoretical modeling and high-resolution imaging
   ENTRYTYPE: article
   ID: dhankhar2025revealing
-  author_abbrev: M. Dhankhar, Z. Guo, A. Kant, R. Basir, R. Joshi, V. Vinayak, S.
+  author_abbrev: M. Dhankhar*, Z. Guo*, A. Kant*, R. Basir, R. Joshi, V. Vinayak, S.
     C. Heo, R. L. Mauck, M. Lakadamyali, V. B. Shenoy
-- year: '2025'
-  journal: bioRxiv
+- publisher: Nature Publishing Group UK London
+  year: '2025'
+  pages: '24'
+  number: '1'
+  volume: '2'
+  journal: npj Biological Physics and Mechanics
   author: Floryan, Marie and Cambria, Elena and Blazeski, Adriana and Coughlin, Mark
     F and Wan, Zhengpeng and Offeddu, Giovanni and Vinayak, Vinayak and Kant, Aayush
     and Shenoy, Vivek and Kamm, Roger D
@@ -208,18 +212,20 @@
   ID: floryan2025remodeling
   author_abbrev: M. Floryan, E. Cambria, A. Blazeski, M. F. Coughlin, Z. Wan, G. Offeddu,
     V. Vinayak, A. Kant, V. Shenoy, R. D. Kamm
-- publisher: Cold Spring Harbor Laboratory
-  year: '2025'
-  pages: 2025--07
-  journal: bioRxiv
-  author: Kim, Hannah H and Martinez-Sarmiento, Jose Angel and Palma, Flavio R and
-    Kant, Aayush and Zhang, Ellen Y and Guo, Zixian and Mauck, Robert L and Heo, Su
-    Chin and Shenoy, Vivek and Bonini, Marcelo G and Lakadamyali, Melike
+- publisher: Nature Publishing Group UK London
+  year: '2026'
+  pages: '7128'
+  number: '1'
+  volume: '17'
+  journal: Nature Communications
+  author: Kim, Hannah H and Zhang, Ellen Y and Palma, Flavio R and
+    Kant, Aayush and Martinez-Sarmiento, Jose Angel and Guo, Zixian and Mauck, Robert L and 
+    Shenoy, Vivek and Bonini, Marcelo G and Heo, Su Chin and Lakadamyali, Melike
   title: 'O-SNAP: A comprehensive pipeline for spatial profiling of chromatin architecture'
   ENTRYTYPE: article
   ID: kim2025snap
-  author_abbrev: H. H. Kim, J. A. Martinez-Sarmiento, F. R. Palma, A. Kant, E. Y.
-    Zhang, Z. Guo, R. L. Mauck, S. C. Heo, V. Shenoy, M. G. Bonini, M. Lakadamyali
+  author_abbrev: H. H. Kim, E. Y. Zhang, F. R. Palma, A. Kant, J. A. Martinez-Sarmiento
+    , Z. Guo, R. L. Mauck, V. Shenoy, M. G. Bonini, S. C. Heo, M. Lakadamyali
 - publisher: null
   year: '2022'
   month: July

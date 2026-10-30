@@ -35,6 +35,6 @@ We are currently recruiting for:
 
 - **Master's positions** - IIT Delhi students who are interested in completing their final year dissertation project, please reach out to me via <a href="mailto:akant@iitd.ac.in">email</a> with a brief statement of interest.
 
-- **Internships** - Internship opportunities are available during the summer breaks. Interested candidates may reach out to me via <a href="mailto:akant@iitd.ac.in">email</a> with their CV and statement of interest.
+- **Internships** - Long-term internship opportunities are available in the lab with minimum duration of 6 months. Interested candidates may reach out to me via <a href="mailto:akant@iitd.ac.in">email</a> with their CV and statement of interest.
 
 - **Post-doctoral positions** - We currently do not have project funded postdoctoral research positions. However, candidates interested in carrying out postdoctoral work in our lab are encouraged to contact <a href="mailto:akant@iitd.ac.in">Aayush</a> with a CV and research statement to explore external fellowship opportunities.
